@@ -7,3 +7,6 @@ I will be creating the following visuals;
 
 You can find my capstone recording here:
 https://yearuptemp-my.sharepoint.com/personal/dsharma_yearup_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdsharma_yearup_org%2FDocuments%2FData+Analytics_Class+7%2FCapstone+3+-+Current%2FCapstone+3+-+PowerPoint%2FCapstone+3+Recording.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.43c2ed9e-1f16-4f22-b7d8-566776978f4a 
+
+You can find my power BI report here:
+https://app.powerbi.com/links/Z09W1JN7ct?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare 
